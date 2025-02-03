@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Gesture Name = "a inval diag 3">
+	<Stroke>
+		<Point X = "277.5" Y = "-154.875" T = "0" Pressure = "0" />
+		<Point X = "277.5" Y = "-154.875" T = "0" Pressure = "0" />
+		<Point X = "277.5" Y = "-154.875" T = "0" Pressure = "0" />
+		<Point X = "277.5" Y = "-154.875" T = "0" Pressure = "0" />
+		<Point X = "277.5" Y = "-154.875" T = "0" Pressure = "0" />
+		<Point X = "346.25" Y = "-199.875" T = "0" Pressure = "0" />
+		<Point X = "512.5" Y = "-341.125" T = "0" Pressure = "0" />
+		<Point X = "637.5" Y = "-454.875" T = "0" Pressure = "0" />
+		<Point X = "780" Y = "-562.375" T = "0" Pressure = "0" />
+		<Point X = "831.25" Y = "-588.625" T = "0" Pressure = "0" />
+	</Stroke>
+</Gesture>

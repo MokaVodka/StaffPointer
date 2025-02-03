@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Gesture Name = "a inval checkmark">
+	<Stroke>
+		<Point X = "-6.60778" Y = "1.903112" T = "0" Pressure = "0" />
+		<Point X = "-6.333773" Y = "2.009126" T = "0" Pressure = "0" />
+		<Point X = "-6.014002" Y = "2.077834" T = "0" Pressure = "0" />
+		<Point X = "-5.747998" Y = "2.118951" T = "0" Pressure = "0" />
+		<Point X = "-5.456817" Y = "2.142756" T = "0" Pressure = "0" />
+		<Point X = "-5.184412" Y = "2.147948" T = "0" Pressure = "0" />
+		<Point X = "-4.956137" Y = "2.160811" T = "0" Pressure = "0" />
+		<Point X = "-4.811028" Y = "2.178364" T = "0" Pressure = "0" />
+		<Point X = "-4.811028" Y = "2.178364" T = "0" Pressure = "0" />
+		<Point X = "-4.648063" Y = "2.122346" T = "0" Pressure = "0" />
+		<Point X = "-4.459259" Y = "1.932129" T = "0" Pressure = "0" />
+		<Point X = "-4.280942" Y = "1.635961" T = "0" Pressure = "0" />
+		<Point X = "-4.080508" Y = "1.228961" T = "0" Pressure = "0" />
+		<Point X = "-3.910916" Y = "0.8659694" T = "0" Pressure = "0" />
+		<Point X = "-3.657655" Y = "0.3074773" T = "0" Pressure = "0" />
+		<Point X = "-3.411976" Y = "-0.288425" T = "0" Pressure = "0" />
+		<Point X = "-3.199317" Y = "-0.8765708" T = "0" Pressure = "0" />
+		<Point X = "-2.994902" Y = "-1.415882" T = "0" Pressure = "0" />
+		<Point X = "-2.833738" Y = "-1.820899" T = "0" Pressure = "0" />
+		<Point X = "-2.633994" Y = "-2.345668" T = "0" Pressure = "0" />
+		<Point X = "-2.410786" Y = "-2.91097" T = "0" Pressure = "0" />
+		<Point X = "-2.170887" Y = "-3.439656" T = "0" Pressure = "0" />
+		<Point X = "-2.005797" Y = "-3.83813" T = "0" Pressure = "0" />
+		<Point X = "-1.80517" Y = "-4.199104" T = "0" Pressure = "0" />
+		<Point X = "-1.650855" Y = "-4.517273" T = "0" Pressure = "0" />
+		<Point X = "-1.440041" Y = "-4.763304" T = "0" Pressure = "0" />
+	</Stroke>
+</Gesture>

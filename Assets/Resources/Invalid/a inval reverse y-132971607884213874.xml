@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Gesture Name = "a inval reverse y">
+	<Stroke>
+		<Point X = "376.25" Y = "-426.125" T = "0" Pressure = "0" />
+		<Point X = "386.25" Y = "-398.625" T = "0" Pressure = "0" />
+		<Point X = "407.5" Y = "-346.125" T = "0" Pressure = "0" />
+		<Point X = "425" Y = "-301.125" T = "0" Pressure = "0" />
+		<Point X = "432.5" Y = "-289.875" T = "0" Pressure = "0" />
+		<Point X = "441.25" Y = "-281.125" T = "0" Pressure = "0" />
+		<Point X = "445" Y = "-279.875" T = "0" Pressure = "0" />
+		<Point X = "457.5" Y = "-272.375" T = "0" Pressure = "0" />
+		<Point X = "465" Y = "-263.625" T = "0" Pressure = "0" />
+		<Point X = "468.75" Y = "-258.625" T = "0" Pressure = "0" />
+	</Stroke>
+	<Stroke>
+		<Point X = "467.5" Y = "-429.875" T = "0" Pressure = "0" />
+		<Point X = "466.25" Y = "-424.875" T = "0" Pressure = "0" />
+		<Point X = "460" Y = "-409.875" T = "0" Pressure = "0" />
+		<Point X = "445" Y = "-392.375" T = "0" Pressure = "0" />
+		<Point X = "438.75" Y = "-384.875" T = "0" Pressure = "0" />
+		<Point X = "436.25" Y = "-381.125" T = "0" Pressure = "0" />
+		<Point X = "431.25" Y = "-373.625" T = "0" Pressure = "0" />
+		<Point X = "425" Y = "-363.625" T = "0" Pressure = "0" />
+		<Point X = "420" Y = "-357.375" T = "0" Pressure = "0" />
+		<Point X = "415" Y = "-349.875" T = "0" Pressure = "0" />
+		<Point X = "412.5" Y = "-346.125" T = "0" Pressure = "0" />
+		<Point X = "408.75" Y = "-341.125" T = "0" Pressure = "0" />
+		<Point X = "408.75" Y = "-341.125" T = "0" Pressure = "0" />
+		<Point X = "408.75" Y = "-341.125" T = "0" Pressure = "0" />
+		<Point X = "408.75" Y = "-339.875" T = "0" Pressure = "0" />
+		<Point X = "408.75" Y = "-338.625" T = "0" Pressure = "0" />
+		<Point X = "408.75" Y = "-338.625" T = "0" Pressure = "0" />
+		<Point X = "408.75" Y = "-338.625" T = "0" Pressure = "0" />
+		<Point X = "408.75" Y = "-338.625" T = "0" Pressure = "0" />
+	</Stroke>
+</Gesture>

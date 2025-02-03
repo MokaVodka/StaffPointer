@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Gesture Name = "a inval unclosed circle">
+	<Stroke>
+		<Point X = "-6.183783" Y = "1.213164" T = "0" Pressure = "0" />
+		<Point X = "-6.669715" Y = "1.255984" T = "0" Pressure = "0" />
+		<Point X = "-7.077934" Y = "1.187328" T = "0" Pressure = "0" />
+		<Point X = "-7.267468" Y = "0.9832056" T = "0" Pressure = "0" />
+		<Point X = "-7.349679" Y = "0.7266371" T = "0" Pressure = "0" />
+		<Point X = "-7.156259" Y = "0.08479479" T = "0" Pressure = "0" />
+		<Point X = "-6.829761" Y = "-0.6272507" T = "0" Pressure = "0" />
+		<Point X = "-6.447391" Y = "-1.249778" T = "0" Pressure = "0" />
+		<Point X = "-5.967438" Y = "-1.744782" T = "0" Pressure = "0" />
+		<Point X = "-5.411735" Y = "-2.062487" T = "0" Pressure = "0" />
+		<Point X = "-4.831507" Y = "-2.200286" T = "0" Pressure = "0" />
+		<Point X = "-4.07752" Y = "-2.153878" T = "0" Pressure = "0" />
+		<Point X = "-3.465982" Y = "-1.924174" T = "0" Pressure = "0" />
+		<Point X = "-3.148666" Y = "-1.51701" T = "0" Pressure = "0" />
+		<Point X = "-3.354918" Y = "-0.7438617" T = "0" Pressure = "0" />
+		<Point X = "-3.864524" Y = "0.1518601" T = "0" Pressure = "0" />
+		<Point X = "-4.375391" Y = "0.8516566" T = "0" Pressure = "0" />
+	</Stroke>
+</Gesture>

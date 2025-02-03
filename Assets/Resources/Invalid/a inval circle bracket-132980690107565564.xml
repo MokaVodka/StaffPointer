@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Gesture Name = "a inval circle bracket">
+	<Stroke>
+		<Point X = "-3.146991" Y = "-1.152663" T = "0" Pressure = "0" />
+		<Point X = "-3.237167" Y = "-1.005086" T = "0" Pressure = "0" />
+		<Point X = "-3.344699" Y = "-0.7998937" T = "0" Pressure = "0" />
+		<Point X = "-3.538934" Y = "-0.494244" T = "0" Pressure = "0" />
+		<Point X = "-3.780456" Y = "-0.1446139" T = "0" Pressure = "0" />
+		<Point X = "-4.041094" Y = "0.2496223" T = "0" Pressure = "0" />
+		<Point X = "-4.234672" Y = "0.6906891" T = "0" Pressure = "0" />
+		<Point X = "-4.312728" Y = "1.048357" T = "0" Pressure = "0" />
+		<Point X = "-4.239202" Y = "1.407205" T = "0" Pressure = "0" />
+		<Point X = "-3.972213" Y = "1.78341" T = "0" Pressure = "0" />
+		<Point X = "-3.55276" Y = "2.132409" T = "0" Pressure = "0" />
+		<Point X = "-3.059994" Y = "2.45071" T = "0" Pressure = "0" />
+		<Point X = "-2.686273" Y = "2.665752" T = "0" Pressure = "0" />
+		<Point X = "-2.179603" Y = "2.883074" T = "0" Pressure = "0" />
+	</Stroke>
+</Gesture>

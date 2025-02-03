@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Gesture Name = "a inval diag 6">
+	<Stroke>
+		<Point X = "0.7330645" Y = "-2.991791" T = "0" Pressure = "0" />
+		<Point X = "0.2622749" Y = "-2.673119" T = "0" Pressure = "0" />
+		<Point X = "-0.2088691" Y = "-2.362239" T = "0" Pressure = "0" />
+		<Point X = "-0.5365584" Y = "-2.136489" T = "0" Pressure = "0" />
+		<Point X = "-0.9201457" Y = "-1.830496" T = "0" Pressure = "0" />
+		<Point X = "-1.36177" Y = "-1.502285" T = "0" Pressure = "0" />
+		<Point X = "-2.029541" Y = "-1.094632" T = "0" Pressure = "0" />
+		<Point X = "-2.735132" Y = "-0.7371123" T = "0" Pressure = "0" />
+		<Point X = "-3.31276" Y = "-0.4662891" T = "0" Pressure = "0" />
+		<Point X = "-4.089206" Y = "0.01687368" T = "0" Pressure = "0" />
+		<Point X = "-4.878081" Y = "0.4920718" T = "0" Pressure = "0" />
+		<Point X = "-5.648664" Y = "0.980782" T = "0" Pressure = "0" />
+		<Point X = "-6.325749" Y = "1.4887" T = "0" Pressure = "0" />
+		<Point X = "-6.731348" Y = "1.739515" T = "0" Pressure = "0" />
+		<Point X = "-6.993736" Y = "1.680208" T = "0" Pressure = "0" />
+	</Stroke>
+</Gesture>

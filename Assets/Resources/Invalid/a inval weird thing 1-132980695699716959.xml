@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Gesture Name = "a inval weird thing 1">
+	<Stroke>
+		<Point X = "-2.051545" Y = "2.445064" T = "0" Pressure = "0" />
+		<Point X = "-1.934932" Y = "2.272688" T = "0" Pressure = "0" />
+		<Point X = "-1.793264" Y = "2.045529" T = "0" Pressure = "0" />
+		<Point X = "-1.63858" Y = "1.822608" T = "0" Pressure = "0" />
+		<Point X = "-1.477577" Y = "1.506936" T = "0" Pressure = "0" />
+		<Point X = "-1.320722" Y = "1.093618" T = "0" Pressure = "0" />
+		<Point X = "-1.106739" Y = "0.5871676" T = "0" Pressure = "0" />
+		<Point X = "-0.8242111" Y = "0.04013528" T = "0" Pressure = "0" />
+		<Point X = "-0.526535" Y = "-0.4786008" T = "0" Pressure = "0" />
+		<Point X = "-0.2653249" Y = "-0.976582" T = "0" Pressure = "0" />
+		<Point X = "-0.04062314" Y = "-1.447503" T = "0" Pressure = "0" />
+		<Point X = "0.0783649" Y = "-1.807973" T = "0" Pressure = "0" />
+		<Point X = "0.08967675" Y = "-2.097184" T = "0" Pressure = "0" />
+		<Point X = "0.07037777" Y = "-2.298047" T = "0" Pressure = "0" />
+		<Point X = "0.08746508" Y = "-2.458213" T = "0" Pressure = "0" />
+		<Point X = "0.1470006" Y = "-2.565651" T = "0" Pressure = "0" />
+		<Point X = "0.1470006" Y = "-2.565651" T = "0" Pressure = "0" />
+		<Point X = "0.1470006" Y = "-2.565651" T = "0" Pressure = "0" />
+		<Point X = "0.1470006" Y = "-2.565651" T = "0" Pressure = "0" />
+		<Point X = "0.1272549" Y = "-2.44749" T = "0" Pressure = "0" />
+		<Point X = "-0.02013651" Y = "-2.196371" T = "0" Pressure = "0" />
+		<Point X = "-0.1354701" Y = "-1.882879" T = "0" Pressure = "0" />
+		<Point X = "-0.1909154" Y = "-1.516937" T = "0" Pressure = "0" />
+		<Point X = "-0.2253426" Y = "-1.211024" T = "0" Pressure = "0" />
+		<Point X = "-0.253123" Y = "-0.8044875" T = "0" Pressure = "0" />
+		<Point X = "-0.2870551" Y = "-0.4099948" T = "0" Pressure = "0" />
+		<Point X = "-0.327435" Y = "-0.1012709" T = "0" Pressure = "0" />
+		<Point X = "-0.1750895" Y = "0.03590648" T = "0" Pressure = "0" />
+		<Point X = "-0.02198622" Y = "0.08284166" T = "0" Pressure = "0" />
+		<Point X = "0.04504818" Y = "0.1815389" T = "0" Pressure = "0" />
+		<Point X = "0.0674786" Y = "0.3208376" T = "0" Pressure = "0" />
+		<Point X = "0.07458411" Y = "0.4474894" T = "0" Pressure = "0" />
+		<Point X = "0.08673944" Y = "0.5490528" T = "0" Pressure = "0" />
+		<Point X = "0.1113646" Y = "0.6473355" T = "0" Pressure = "0" />
+		<Point X = "0.1113646" Y = "0.6473355" T = "0" Pressure = "0" />
+		<Point X = "0.1113646" Y = "0.6473355" T = "0" Pressure = "0" />
+		<Point X = "0.1113646" Y = "0.6473355" T = "0" Pressure = "0" />
+		<Point X = "0.2151973" Y = "0.6824939" T = "0" Pressure = "0" />
+		<Point X = "0.3639297" Y = "0.6456863" T = "0" Pressure = "0" />
+		<Point X = "-2.719848" Y = "0.3450084" T = "0" Pressure = "0" />
+		<Point X = "-3.841312" Y = "0.04928038" T = "0" Pressure = "0" />
+		<Point X = "-3.724876" Y = "-0.2291654" T = "0" Pressure = "0" />
+		<Point X = "-3.477202" Y = "-0.446593" T = "0" Pressure = "0" />
+		<Point X = "-3.186864" Y = "-0.6651654" T = "0" Pressure = "0" />
+		<Point X = "-2.873863" Y = "-0.8837543" T = "0" Pressure = "0" />
+		<Point X = "-2.639275" Y = "-1.044951" T = "0" Pressure = "0" />
+		<Point X = "-2.508068" Y = "-1.142757" T = "0" Pressure = "0" />
+		<Point X = "-2.508068" Y = "-1.142757" T = "0" Pressure = "0" />
+		<Point X = "-2.508068" Y = "-1.142757" T = "0" Pressure = "0" />
+		<Point X = "-2.508068" Y = "-1.142757" T = "0" Pressure = "0" />
+		<Point X = "-2.489895" Y = "-1.065302" T = "0" Pressure = "0" />
+		<Point X = "-2.517813" Y = "-0.9106814" T = "0" Pressure = "0" />
+		<Point X = "-2.567286" Y = "-0.7527385" T = "0" Pressure = "0" />
+		<Point X = "-2.627869" Y = "-0.6058858" T = "0" Pressure = "0" />
+		<Point X = "-2.702849" Y = "-0.4842305" T = "0" Pressure = "0" />
+		<Point X = "-2.773378" Y = "-0.4075839" T = "0" Pressure = "0" />
+		<Point X = "-2.773378" Y = "-0.4075839" T = "0" Pressure = "0" />
+		<Point X = "-2.883443" Y = "-0.346725" T = "0" Pressure = "0" />
+	</Stroke>
+</Gesture>

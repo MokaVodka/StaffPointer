@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Gesture Name = "a inval flip diag">
+	<Stroke>
+		<Point X = "-5.57694" Y = "-3.011857" T = "0" Pressure = "0" />
+		<Point X = "-5.783372" Y = "-3.170587" T = "0" Pressure = "0" />
+		<Point X = "-5.839785" Y = "-3.279598" T = "0" Pressure = "0" />
+		<Point X = "-5.839785" Y = "-3.279598" T = "0" Pressure = "0" />
+		<Point X = "-5.779552" Y = "-3.034358" T = "0" Pressure = "0" />
+		<Point X = "-5.649649" Y = "-2.616345" T = "0" Pressure = "0" />
+		<Point X = "-5.376337" Y = "-1.871087" T = "0" Pressure = "0" />
+		<Point X = "-4.649258" Y = "-1.358612" T = "0" Pressure = "0" />
+		<Point X = "-3.712058" Y = "-1.078663" T = "0" Pressure = "0" />
+		<Point X = "-2.440968" Y = "-0.5897335" T = "0" Pressure = "0" />
+		<Point X = "-1.36544" Y = "0.03714964" T = "0" Pressure = "0" />
+		<Point X = "-0.265942" Y = "0.7203797" T = "0" Pressure = "0" />
+		<Point X = "0.5205401" Y = "1.151034" T = "0" Pressure = "0" />
+	</Stroke>
+</Gesture>

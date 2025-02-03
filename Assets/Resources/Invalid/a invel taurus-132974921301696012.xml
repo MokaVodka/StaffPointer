@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Gesture Name = "a invel taurus">
+	<Stroke>
+		<Point X = "251.25" Y = "-438.625" T = "0" Pressure = "0" />
+		<Point X = "251.25" Y = "-438.625" T = "0" Pressure = "0" />
+		<Point X = "251.25" Y = "-438.625" T = "0" Pressure = "0" />
+		<Point X = "251.25" Y = "-438.625" T = "0" Pressure = "0" />
+		<Point X = "305" Y = "-441.125" T = "0" Pressure = "0" />
+		<Point X = "362.5" Y = "-439.875" T = "0" Pressure = "0" />
+		<Point X = "423.75" Y = "-434.875" T = "0" Pressure = "0" />
+		<Point X = "460" Y = "-424.875" T = "0" Pressure = "0" />
+		<Point X = "497.5" Y = "-394.875" T = "0" Pressure = "0" />
+		<Point X = "526.25" Y = "-364.875" T = "0" Pressure = "0" />
+		<Point X = "550" Y = "-332.375" T = "0" Pressure = "0" />
+		<Point X = "558.75" Y = "-299.875" T = "0" Pressure = "0" />
+		<Point X = "560" Y = "-268.625" T = "0" Pressure = "0" />
+		<Point X = "543.75" Y = "-229.875" T = "0" Pressure = "0" />
+		<Point X = "507.5" Y = "-193.625" T = "0" Pressure = "0" />
+		<Point X = "455" Y = "-162.375" T = "0" Pressure = "0" />
+		<Point X = "426.25" Y = "-159.875" T = "0" Pressure = "0" />
+		<Point X = "386.25" Y = "-181.125" T = "0" Pressure = "0" />
+		<Point X = "347.5" Y = "-231.125" T = "0" Pressure = "0" />
+		<Point X = "327.5" Y = "-269.875" T = "0" Pressure = "0" />
+		<Point X = "323.75" Y = "-339.875" T = "0" Pressure = "0" />
+		<Point X = "337.5" Y = "-369.875" T = "0" Pressure = "0" />
+		<Point X = "377.5" Y = "-418.625" T = "0" Pressure = "0" />
+		<Point X = "458.75" Y = "-452.375" T = "0" Pressure = "0" />
+		<Point X = "543.75" Y = "-471.125" T = "0" Pressure = "0" />
+		<Point X = "602.5" Y = "-483.625" T = "0" Pressure = "0" />
+		<Point X = "668.75" Y = "-481.125" T = "0" Pressure = "0" />
+		<Point X = "691.25" Y = "-469.875" T = "0" Pressure = "0" />
+	</Stroke>
+</Gesture>

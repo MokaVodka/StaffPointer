@@ -1,0 +1,1 @@
+Can be used for indicating little time left. Maybe have timer flash red when it is 10 seconds left so it is clear what the sound is for.
